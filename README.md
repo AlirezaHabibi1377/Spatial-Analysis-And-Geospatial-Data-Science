@@ -8,5 +8,7 @@ In this directory, I have worked with the GeoPandas and Pandas libraries to read
 
 In this directory, I have worked with static maps, multi-layer maps, various base maps, choropleth maps, bubble maps, and spatial data.
 
-# 3)
+# 3) Interactive Visualization
+
+In this directory, I have worked with interactive maps using Folium in two parts, and I have also worked with ipyleaflet. Additionally, I have used and worked with Plotly Express.
 
