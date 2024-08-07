@@ -1,1 +1,2 @@
-# Spatial-Analysis-And-Geospatial-Data-Science
+# Spatial Analysis And Geospatial Data Science
+
